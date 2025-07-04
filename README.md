@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Icon1cc](https://github.com/Icon1cc)
 - 📫 How to reach me: **rishabhworks98@gmail.com**
+- 🌐 Check out my portfolio: https://icon1cc-github-io.vercel.app/
+  
 
 ---
 
