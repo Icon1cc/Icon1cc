@@ -49,57 +49,6 @@ I like working at the intersection of software engineering and applied machine l
 
 ---
 
-## Featured Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/Icon1cc/Data-Structures-and-Algorithms">
-          Data Structures and Algorithms
-        </a>
-      </h3>
-      <p>
-        Python-based practice for algorithms, problem solving, and interview preparation.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/Icon1cc/5-Day-Gen-AI-Intensive-Course-with-Google">
-          5-Day Gen AI Intensive Course
-        </a>
-      </h3>
-      <p>
-        Notes, experiments, and learning material from a hands-on generative AI course.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/Icon1cc/Machine-Learning">
-          Machine Learning
-        </a>
-      </h3>
-      <p>
-        Machine learning experiments, notebooks, and applied ML concepts.
-      </p>
-    </td>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/Icon1cc/Neetcode-submissions">
-          NeetCode Submissions
-        </a>
-      </h3>
-      <p>
-        Coding problem submissions and structured interview preparation.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Tech Stack
 
 ### Primary Stack
@@ -144,21 +93,6 @@ I like working at the intersection of software engineering and applied machine l
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 </p>
-
----
-
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/Icon1cc?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" />
-  </a>
-</p>
-
-<!--
-Dynamic GitHub stats cards were removed because the public github-readme-stats endpoint can fail due to rate limits and traffic spikes.
-For reliable stats, use a self-hosted GitHub Readme Stats instance or generate static SVG cards with GitHub Actions.
--->
 
 ---
 
