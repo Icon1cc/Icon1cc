@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Rishabh Tiwari</h1>
+<h1 align="center">Hi, I am Rishabh!</h1>
 
 <h3 align="center">
   Software Developer • Machine Learning Engineer
@@ -16,6 +16,24 @@
   </a>
   <a href="https://icon1cc-github-io.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ruprecht-karls-University-of-Heidelberg">
+    <img src="https://img.shields.io/badge/Heidelberg-Master%27s%20Projects-8A1538?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Heidelberg GitHub Organization" />
+  </a>
+  <a href="https://github.com/Politecnico-Di-Milano-CSE">
+    <img src="https://img.shields.io/badge/Politecnico%20di%20Milano-Master%27s%20Projects-C00000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Politecnico di Milano GitHub Organization" />
+  </a>
+  <a href="https://github.com/My-Hackathon-Projects">
+    <img src="https://img.shields.io/badge/Hackathons-Project%20Builds-6f42c1?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Hackathon Projects GitHub Organization" />
+  </a>
+  <a href="https://github.com/My-Programming-Club">
+    <img src="https://img.shields.io/badge/Programming%20Club-Personal%20Projects-2ea44f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Programming Club GitHub Organization" />
+  </a>
+  <a href="https://github.com/Kosjenka-Reading-App">
+    <img src="https://img.shields.io/badge/Kosjenka-Reading%20App-ff69b4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Kosjenka Reading App GitHub Organization" />
   </a>
 </p>
 
@@ -46,6 +64,18 @@ I like working at the intersection of software engineering and applied machine l
 | Backend Engineering | REST APIs, data processing, service design, automation |
 | Frontend Development | React applications, portfolio websites, interactive interfaces |
 | Developer Tools | Dashboards, utilities, scripts, and workflow improvements |
+
+---
+
+## Where My Projects Live
+
+| Organization | What you will find |
+| --- | --- |
+| [Ruprecht-Karls-Universität Heidelberg](https://github.com/Ruprecht-karls-University-of-Heidelberg) | Academic projects from my Master’s study period in Data and Computer Science at Heidelberg, including work around visual computing, text analysis, and computer games. |
+| [Politecnico di Milano - Leonardo Campus](https://github.com/Politecnico-Di-Milano-CSE) | Repositories that contributed to my Master’s degree program at Polimi, covering areas such as NLP, IoT, deep learning challenges, software engineering, and research work. |
+| [My Hackathon Projects](https://github.com/My-Hackathon-Projects) | Hackathon builds, fast prototypes, and AI-focused experiments created under time constraints, including agentic tools, matching systems, and product ideas. |
+| [My Programming Club](https://github.com/My-Programming-Club) | Personal projects, fun-time experiments, programming practice, and learning repositories across Python, C++, Java, and machine learning. |
+| [Kosjenka Reading App](https://github.com/Kosjenka-Reading-App) | A reading application project for children, created as a company project for Visage Technologies, with backend, admin panel, and mobile app repositories. |
 
 ---
 
