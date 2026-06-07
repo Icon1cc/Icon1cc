@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Rishabh Tiwari</h1>
 
 <h3 align="center">
-  Software Developer • Machine Learning Engineer • AI/ML Builder
+  Software Developer • Machine Learning Engineer
 </h3>
 
 <p align="center">
