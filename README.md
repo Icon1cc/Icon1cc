@@ -18,15 +18,6 @@ I am the first AI Engineer at Logicc in Hamburg. Before that I worked at SAP, Po
 
 I build LLM applications, AI agents and retrieval systems, together with the full-stack software around them.
 
-## Featured projects
-
-| Project | What it does | Result |
-|---|---|---|
-| [SupplyWise AI](https://github.com/My-Hackathon-Projects/supplywise-ai) | Raw material substitution and compliance analysis for consumer goods supply chains | Winner, Spherecast (YC24) challenge at Q-Hack |
-| [Kernel](https://github.com/My-Hackathon-Projects/kernel) | Turns a recorded web workflow into an audited tool that AI agents can call | |
-| [Competitor Matcher](https://github.com/My-Hackathon-Projects/competitor-matcher) | Competitor price intelligence across 6 electronics retailers | 2nd place, Zenline AI track at the Anthropic hackathon at ETH Zurich |
-| [NestAI Agent](https://github.com/My-Hackathon-Projects/nestai-agent) | Voice-first real estate discovery assistant | Winner, Dify challenge at the Tech Europe Paris AI Hack |
-
 ## Where my projects live
 
 | | Organization | What you will find |
