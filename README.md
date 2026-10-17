@@ -1,155 +1,88 @@
-<h1 align="center">Hi, I am Rishabh!</h1>
+<h1 align="center">Hi, I am Rishabh</h1>
 
-<h3 align="center">
-  Software Developer • Machine Learning Engineer
-</h3>
+<h3 align="center">AI Engineer at Logicc · Software Developer and Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/Icon1cc">
-    <img src="https://img.shields.io/badge/GitHub-Icon1cc-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/icon1c/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Tiwari-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rishabhworks98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishabhworks98%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://icon1cc-github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/icon1c/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+  <a href="mailto:rishabhworks98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://icon1cc-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://icon1cc-github-io.vercel.app/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Heidelberg-University">
-    <img src="https://img.shields.io/badge/Heidelberg%20University-Master%27s%20Projects-8A1538?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Heidelberg GitHub Organization" />
-  </a>
-  <a href="https://github.com/Politecnico-Di-Milano-CSE">
-    <img src="https://img.shields.io/badge/Politecnico%20di%20Milano-Master%27s%20Projects-C00000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Politecnico di Milano GitHub Organization" />
-  </a>
-  <a href="https://github.com/My-Hackathon-Projects">
-    <img src="https://img.shields.io/badge/Hackathons-Project%20Builds-6f42c1?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Hackathon Projects GitHub Organization" />
-  </a>
-  <a href="https://github.com/My-Programming-Club">
-    <img src="https://img.shields.io/badge/Programming%20Club-Personal%20Projects-2ea44f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Programming Club GitHub Organization" />
-  </a>
-  <a href="https://github.com/Kosjenka-Reading-App">
-    <img src="https://img.shields.io/badge/Kosjenka-Reading%20App-ff69b4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Kosjenka Reading App GitHub Organization" />
-  </a>
-</p>
+## About me
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdzdm5uYW0xMGs5b3Z6ZHZ6ZTVvMHhtb3pwc3ppMm1mMXRuaHY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" width="420" />
-</p>
+I am the first AI Engineer at Logicc in Hamburg. Before that I worked at SAP, Porsche Engineering, ABB, Amazon and Datrix, and as a research assistant at Heidelberg University and Politecnico di Milano. I hold an M.Sc. in Data and Computer Science from Heidelberg University.
 
----
+I build LLM applications, AI agents and retrieval systems, together with the full-stack software around them.
 
-## About Me
+## Featured projects
 
-I am a software developer and machine learning engineer who enjoys building practical software, AI-powered tools, and full-stack applications.
+| Project | What it does | Result |
+|---|---|---|
+| [SupplyWise AI](https://github.com/My-Hackathon-Projects/supplywise-ai) | Raw material substitution and compliance analysis for consumer goods supply chains | Winner, Spherecast (YC24) challenge at Q-Hack |
+| [Kernel](https://github.com/My-Hackathon-Projects/kernel) | Turns a recorded web workflow into an audited tool that AI agents can call | |
+| [Competitor Matcher](https://github.com/My-Hackathon-Projects/competitor-matcher) | Competitor price intelligence across 6 electronics retailers | 2nd place, Zenline AI track at the Anthropic hackathon at ETH Zurich |
+| [NestAI Agent](https://github.com/My-Hackathon-Projects/nestai-agent) | Voice-first real estate discovery assistant | Winner, Dify challenge at the Tech Europe Paris AI Hack |
 
-I like working at the intersection of software engineering and applied machine learning, especially with LLMs, RAG systems, APIs, data pipelines, and user-facing products.
+## Where my projects live
 
-- Currently a **Software Developer at SAP**
-- Building with **Python, TypeScript, JavaScript, C#, React, FastAPI, and Node.js**
-- Interested in **LLMs, Retrieval-Augmented Generation, NLP, backend engineering, and applied machine learning**
-- Focused on writing clean, useful, and production-ready software
+| | Organization | What you will find |
+|---|---|---|
+| <img src="https://github.com/Heidelberg-University.png?size=80" width="40" alt="Heidelberg University" /> | [Heidelberg University](https://github.com/Heidelberg-University) | My master's thesis, coursework, a seminar and a Unity game you can [play in the browser](https://heidelberg-university.github.io/super-mario-platformer-unity/) |
+| <img src="https://github.com/Politecnico-Di-Milano-CSE.png?size=80" width="40" alt="Politecnico di Milano" /> | [Politecnico di Milano](https://github.com/Politecnico-Di-Milano-CSE) | Projects from my exchange year: NLP, deep learning, distributed systems, IoT and mobile apps |
+| <img src="https://github.com/My-Hackathon-Projects.png?size=80" width="40" alt="My Hackathon Projects" /> | [My Hackathon Projects](https://github.com/My-Hackathon-Projects) | Weekend builds, including winning entries at Q-Hack, the Tech Europe Paris AI Hack and the Cursor Hackathon Heilbronn |
+| <img src="https://github.com/My-Programming-Club.png?size=80" width="40" alt="My Programming Club" /> | [My Programming Club](https://github.com/My-Programming-Club) | Personal projects, coding challenges and the exercises I learned programming with |
+| <img src="https://github.com/Kosjenka-Reading-App.png?size=80" width="40" alt="Kosjenka Reading App" /> | [Kosjenka Reading App](https://github.com/Kosjenka-Reading-App) | A reading app for children with gaze tracking, built as a team project for Visage Technologies |
 
----
+## Tech stack
 
-## What I Work On
-
-| Area | Focus |
-| --- | --- |
-| AI and Machine Learning | LLM applications, RAG systems, NLP, model evaluation, computer vision |
-| Backend Engineering | REST APIs, data processing, service design, automation |
-| Frontend Development | React applications, portfolio websites, interactive interfaces |
-| Developer Tools | Dashboards, utilities, scripts, and workflow improvements |
-
----
-
-## Where My Projects Live
-
-| Organization | What you will find |
-| --- | --- |
-| [Heidelberg University](https://github.com/Heidelberg-University) | Academic projects from my Master’s study period in Data and Computer Science at Heidelberg, including work around visual computing, text analysis, and computer games. |
-| [Politecnico di Milano](https://github.com/Politecnico-Di-Milano-CSE) | Repositories that contributed to my Master’s degree program at Polimi, covering areas such as NLP, IoT, deep learning challenges, software engineering, and research work. |
-| [My Hackathon Projects](https://github.com/My-Hackathon-Projects) | Hackathon builds, fast prototypes, and AI-focused experiments created under time constraints, including agentic tools, matching systems, and product ideas. |
-| [My Programming Club](https://github.com/My-Programming-Club) | Personal projects, fun-time experiments, programming practice, and learning repositories across Python, C++, Java, and machine learning. |
-| [Kosjenka Reading App](https://github.com/Kosjenka-Reading-App) | A reading application project for children, created as a company project for Visage Technologies, with backend, admin panel, and mobile app repositories. |
-
----
-
-## Tech Stack
-
-### Primary Stack
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-### AI, ML and Data
+**Full stack**
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-red?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge&amp;logo=algolia&amp;logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=black" alt="NLP" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&amp;logo=opencv&amp;logoColor=black" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-### Databases, DevOps and Tools
+**Machine learning**
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
----
-
-## Connect With Me
+**Data and infrastructure**
 
 <p>
-  <a href="https://kaggle.com/icon1c98">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.leetcode.com/icon1c">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://discord.com/users/562966996216709132">
-    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-  </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+## Elsewhere
 
-## Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random dev quote" />
-</p>
-
----
-
-<p align="center">
-  <i>Building useful software, learning deeply, and improving one project at a time.</i>
+<p>
+  <a href="https://www.kaggle.com/icon1c98"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/Icon1c/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://discord.com/users/562966996216709132"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
