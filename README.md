@@ -72,7 +72,7 @@ I like working at the intersection of software engineering and applied machine l
 | Organization | What you will find |
 | --- | --- |
 | [Heidelberg University](https://github.com/Heidelberg-University) | Academic projects from my Master’s study period in Data and Computer Science at Heidelberg, including work around visual computing, text analysis, and computer games. |
-| [Politecnico di Milano - Leonardo Campus](https://github.com/Politecnico-Di-Milano-CSE) | Repositories that contributed to my Master’s degree program at Polimi, covering areas such as NLP, IoT, deep learning challenges, software engineering, and research work. |
+| [Politecnico di Milano](https://github.com/Politecnico-Di-Milano-CSE) | Repositories that contributed to my Master’s degree program at Polimi, covering areas such as NLP, IoT, deep learning challenges, software engineering, and research work. |
 | [My Hackathon Projects](https://github.com/My-Hackathon-Projects) | Hackathon builds, fast prototypes, and AI-focused experiments created under time constraints, including agentic tools, matching systems, and product ideas. |
 | [My Programming Club](https://github.com/My-Programming-Club) | Personal projects, fun-time experiments, programming practice, and learning repositories across Python, C++, Java, and machine learning. |
 | [Kosjenka Reading App](https://github.com/Kosjenka-Reading-App) | A reading application project for children, created as a company project for Visage Technologies, with backend, admin panel, and mobile app repositories. |
