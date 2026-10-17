@@ -9,6 +9,10 @@
   <a href="https://icon1cc-github-io.vercel.app/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdzdm5uYW0xMGs5b3Z6ZHZ6ZTVvMHhtb3pwc3ppMm1mMXRuaHY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" width="420" />
+</p>
+
 ## About me
 
 I am the first AI Engineer at Logicc in Hamburg. Before that I worked at SAP, Porsche Engineering, ABB, Amazon and Datrix, and as a research assistant at Heidelberg University and Politecnico di Milano. I hold an M.Sc. in Data and Computer Science from Heidelberg University.
